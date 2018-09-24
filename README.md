@@ -1,1 +1,1 @@
-# PandasiaChocolates
+# pandaisia-chocolates
